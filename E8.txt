@@ -1,1 +1,3 @@
 GEGG: Hola
+GGS: Holiwi
+GGS: ¿Cómo Estás?
