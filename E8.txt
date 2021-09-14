@@ -1,2 +1,3 @@
 GEGG: Hola
-GEGG: Como estan?
+GGS: Hola!
+GGS: ¿Cómo Estás?
